@@ -6,9 +6,29 @@
     <description>Recent content on skuzzymiglet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sun, 01 Mar 2020 09:39:54 +0000</lastBuildDate>
     
 	<atom:link href="https://skuzzymiglet.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Projects</title>
+      <link>https://skuzzymiglet.github.io/projects/</link>
+      <pubDate>Sun, 01 Mar 2020 09:39:54 +0000</pubDate>
+      
+      <guid>https://skuzzymiglet.github.io/projects/</guid>
+      <description>A list of my todo, in-progress and done projects
+Done  asl - a tool to make timelapses of your screen, replaced asl.sh, a 2-line script, but now I don&amp;rsquo;t use it because it&amp;rsquo;s intrinsically too heavy animator, a command-line animation tool I made in Go. It&amp;rsquo;s kind of stupid, as I knew nothing about animation, so the interface is horrible and the code is functionally flawed  In-progress  point - a simple, fast, tool to create HTML presentation you can open anywhere reviz, a revision app that scans your notes, tests you verbally and shows you your results, all server free.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://skuzzymiglet.github.io/about/</link>
+      <pubDate>Sun, 01 Mar 2020 09:33:22 +0000</pubDate>
+      
+      <guid>https://skuzzymiglet.github.io/about/</guid>
+      <description>I do programming as a hobby. I know Python well, learnt Go in October, I know basic JS (and obviously HTML and CSS) and I&amp;rsquo;m learning Vue. I have many projects to do!</description>
+    </item>
     
   </channel>
 </rss>
