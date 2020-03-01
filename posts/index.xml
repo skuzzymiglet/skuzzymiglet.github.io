@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on skuzzymiglet&#39;s blog</title>
+    <link>https://skuzzymiglet.github.io/posts/</link>
+    <description>Recent content in Posts on skuzzymiglet&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Mar 2020 15:54:56 +0000</lastBuildDate>
+    
+	<atom:link href="https://skuzzymiglet.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>https://skuzzymiglet.github.io/posts/hello/</link>
+      <pubDate>Sun, 01 Mar 2020 15:54:56 +0000</pubDate>
+      
+      <guid>https://skuzzymiglet.github.io/posts/hello/</guid>
+      <description>Hello there! This is the first blog post here, just to combat that 404 page! I&amp;rsquo;ll try to post every week from now on</description>
+    </item>
+    
+  </channel>
+</rss>
