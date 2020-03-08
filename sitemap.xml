@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://skuzzymiglet.github.io/posts/hello/</loc>
-    <lastmod>2020-03-01T15:54:56+00:00</lastmod>
+    <loc>https://skuzzymiglet.github.io/posts/advice/</loc>
+    <lastmod>2020-03-08T09:48:25+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://skuzzymiglet.github.io/posts/</loc>
+    <lastmod>2020-03-08T09:48:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skuzzymiglet.github.io/posts/hello/</loc>
     <lastmod>2020-03-01T15:54:56+00:00</lastmod>
   </url>
   
