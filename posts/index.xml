@@ -18,7 +18,7 @@
       
       <guid>https://skuzzymiglet.github.io/posts/setup/</guid>
       <description>An update on my setup. I haven&amp;rsquo;t shown it since last October and you people seem to like it.
-OS: Arch Linux I love how you get to build your system fully. Yet the rolling release model means you can install and forget, with no worries about updates.
+OS: Arch Linux I love how you get to build your system fully. Yet the rolling release model means you can install and forget, with no worries about full-system upgrades like you do in Ubuntu.
 WM: bspwm (switched from i3) I love bspwm&amp;rsquo;s binary tree tiling. It&amp;rsquo;s slightly harder to set up the i3, but I recommend it to anyone with a bit of time.</description>
     </item>
     
