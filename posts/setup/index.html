@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="author" content="skuzzymiglet">
+    <meta name="description" content="I&#39;m skuzzymiglet, a curious developer who does it because it&#39;s fun">
+    <meta name="keywords" content="blog,personal,programming,code,javascript,golang,go,linux,developer">
+
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="My Setup"/>
+<meta name="twitter:description" content="An update on my setup. I haven&rsquo;t shown it since last October and you people seem to like it.
+OS: Arch Linux I love how you get to build your system fully. Yet the rolling release model means you can install and forget, with no worries about updates.
+WM: bspwm (switched from i3) I love bspwm&rsquo;s binary tree tiling. It&rsquo;s slightly harder to set up the i3, but I recommend it to anyone with a bit of time."/>
+
+    <meta property="og:title" content="My Setup" />
+<meta property="og:description" content="An update on my setup. I haven&rsquo;t shown it since last October and you people seem to like it.
+OS: Arch Linux I love how you get to build your system fully. Yet the rolling release model means you can install and forget, with no worries about updates.
+WM: bspwm (switched from i3) I love bspwm&rsquo;s binary tree tiling. It&rsquo;s slightly harder to set up the i3, but I recommend it to anyone with a bit of time." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://skuzzymiglet.github.io/posts/setup/" />
+<meta property="article:published_time" content="2020-03-14T08:14:27+00:00" />
+<meta property="article:modified_time" content="2020-03-14T08:14:27+00:00" />
+
+
+    
+      <base href="https://skuzzymiglet.github.io/posts/setup/">
+    
+    <title>
+  My Setup · skuzzymiglet&#39;s blog
+</title>
+
+    
+      <link rel="canonical" href="https://skuzzymiglet.github.io/posts/setup/">
+    
+
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather:300,700%7CSource+Code+Pro:400,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" integrity="sha384-KA6wR/X5RY4zFAHpv/CnoG2UW1uogYfdnP67Uv7eULvTveboZJg0qUpmJZb5VqzN" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha256-l85OmPOjvil/SOvVt3HnSSjzF1TUMyT9eV0c2BzEGzU=" crossorigin="anonymous" />
+
+    
+      
+      
+      <link rel="stylesheet" href="https://skuzzymiglet.github.io/css/coder.min.a4f332213a21ce8eb521670c614470c58923aaaf385e2a73982c31dd7642decb.css" integrity="sha256-pPMyITohzo61IWcMYURwxYkjqq84XipzmCwx3XZC3ss=" crossorigin="anonymous" media="screen" />
+    
+
+    
+
+    
+
+    
+      <link rel="stylesheet" href="https://skuzzymiglet.github.io/css/custom.css" />
+    
+
+    
+
+    
+
+    <link rel="icon" type="image/png" href="https://skuzzymiglet.github.io/img/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="https://skuzzymiglet.github.io/img/favicon-16x16.png" sizes="16x16">
+
+    <meta name="generator" content="Hugo 0.68.2" />
+  </head>
+
+  
+  
+  <body class="colorscheme-light">
+    <main class="wrapper">
+      <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="https://skuzzymiglet.github.io/">
+      skuzzymiglet&#39;s blog
+    </a>
+    
+    <input type="checkbox" id="menu-toggle" />
+    <label class="menu-button float-right" for="menu-toggle"><i class="fas fa-bars"></i></label>
+    <ul class="navigation-list">
+      
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="https://skuzzymiglet.github.io/posts/">Blog</a>
+          </li>
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="https://skuzzymiglet.github.io/about/">About</a>
+          </li>
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="https://github.com/skuzzymiglet/dotfiles">Dotfiles</a>
+          </li>
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="https://skuzzymiglet.github.io/projects">Projects</a>
+          </li>
+        
+      
+      
+    </ul>
+    
+  </section>
+</nav>
+
+
+      <div class="content">
+        
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">My Setup</h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fas fa-calendar"></i>
+              <time datetime='2020-03-14T08:14:27Z'>
+                March 14, 2020
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fas fa-clock"></i>
+              2-minute read
+            </span>
+          </div>
+          
+          
+        </div>
+      </header>
+
+      <div>
+        
+        <p><img src="https://skuzzymiglet.github.io/img/screenshot-24_03_20_018.png" alt="setup">
+<img src="https://skuzzymiglet.github.io/img/screenshot-25_03_20_000.png" alt="setup 2"></p>
+<p>An update on my setup. I haven&rsquo;t shown it since last October and you people seem to like it.</p>
+<h2 id="os-arch-linux">OS: Arch Linux</h2>
+<p>I love how you get to build your system fully. Yet the rolling release model means you can install and forget, with no worries about updates.</p>
+<h2 id="wm-bspwm-switched-from-i3">WM: bspwm (switched from i3)</h2>
+<p>I love bspwm&rsquo;s binary tree tiling. It&rsquo;s slightly harder to set up the i3, but I recommend it to anyone with a bit of time.</p>
+<h2 id="browser-qutebrowser">Browser: qutebrowser</h2>
+<p>I fell in love with this browser straight after I installed it because previously I used Firefox which required me to use my mouse.</p>
+<h2 id="text-editor-vim">Text editor: vim</h2>
+<p>In a manageable 78 lines of vimrc I&rsquo;ve got a multi-purpose text-editor for writing, programming and accidentaly opening binary files in <code>vifm</code>. It just accomodates everything. Also vim-like software is nice - for example qutebrowser</p>
+<h2 id="bar-polybar">Bar: polybar</h2>
+<p>I don&rsquo;t really like polybar. 415 lines of config is excessive and the bar doesn&rsquo;t look that good. It&rsquo;s not even themeable. In the i3 days, I used <a href="https://github.com/tobi-wan-kenobi/bumblebee-status/"><code>bumblebee status</code></a> and it was fun. Just a command, themes, i3 integration. I&rsquo;m looking for another bar. I may hop to dwm and use dwmbar or use <a href="https://github.com/tobi-wan-kenobi/bumblebee-status/">yabar</a></p>
+<h2 id="file-manager-vifm">File manager: vifm</h2>
+<p>vifm is a good, fast, vim-like file manager. I haven&rsquo;t had many problems with it. Its 512 lines of config are excessive, but they do include comments. Because of the builtin file-opening, my xdg-open command is pretty stupid. I may switch to <code>nnn</code>. I also tried out <a href="https://github.com/huijunchen9260/dmenufm">dmenufm</a>.</p>
+<h2 id="email-client-neomutt">Email client: neomutt</h2>
+<p>I set this up with <a href="https://github.com/LukeSmithxyz/mutt-wizard">mutt-wizard</a>. It&rsquo;s email - I don&rsquo;t really care. It works.</p>
+<h2 id="matrix-client-gomuks">Matrix client: gomuks</h2>
+<p>I discovered this a few days ago. It&rsquo;s a good matrix client, but doesn&rsquo;t support everything Riot.im does. But I look forward to contributing to it on GitHub</p>
+<h2 id="system-monitor-ytop">System monitor: ytop</h2>
+<p><code>gotop</code> was really good and the migration to <code>ytop</code> was easy. It&rsquo;s fast and visual, and I&rsquo;ll keep it</p>
+<h1 id="todo">TODO</h1>
+<ul>
+<li>I may distro-hop to Void and try out dwm</li>
+<li><a href="https://github.com/trizen/youtube-viewer">youtube-viewer</a> setup</li>
+<li>Lilypond + vim + git composition setup - I&rsquo;ll write an article</li>
+<li>More qutebrowser shortcuts</li>
+<li>ctrlp.vim config - it&rsquo;s slow right now</li>
+<li>Making these dotfiles portable and installing them on another computer</li>
+</ul>
+<p>Happy ricing!</p>
+
+      </div>
+
+
+      <footer>
+        
+
+
+        <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "skuzzblog" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+        
+        
+        <a href="https://riot.im/app/#/room/!jMslVGmjOEWamDAHDw:matrix.org?via=matrix.org">Any thoughts? Chat on Riot!</a>
+      </footer>
+    </article>
+
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script type="text/javascript" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/startup.js" id="MathJax-script"></script>
+  <script>
+    MathJax = {
+      tex: {
+        inlineMath: [
+          ['$', '$'], ['\\(', '\\)']
+        ],
+        processEscapes: true,
+        processEnvironments: true
+      },
+      options: {
+        skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+      }
+    };
+  </script>
+  </section>
+
+      </div>
+
+      <footer class="footer">
+  <section class="container">
+    
+    
+    
+      
+      Powered by <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>.
+    
+    
+  </section>
+</footer>
+
+    </main>
+
+    
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-160269704-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+
+    
+
+  </body>
+
+</html>

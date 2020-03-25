@@ -6,10 +6,21 @@
     <description>Recent content in Posts on skuzzymiglet&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Mar 2020 09:48:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2020 08:14:27 +0000</lastBuildDate>
     
 	<atom:link href="https://skuzzymiglet.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Setup</title>
+      <link>https://skuzzymiglet.github.io/posts/setup/</link>
+      <pubDate>Sat, 14 Mar 2020 08:14:27 +0000</pubDate>
+      
+      <guid>https://skuzzymiglet.github.io/posts/setup/</guid>
+      <description>An update on my setup. I haven&amp;rsquo;t shown it since last October and you people seem to like it.
+OS: Arch Linux I love how you get to build your system fully. Yet the rolling release model means you can install and forget, with no worries about updates.
+WM: bspwm (switched from i3) I love bspwm&amp;rsquo;s binary tree tiling. It&amp;rsquo;s slightly harder to set up the i3, but I recommend it to anyone with a bit of time.</description>
+    </item>
     
     <item>
       <title>5 tips</title>
