@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Dotfiles</title>
+      <link>https://skuzzymiglet.github.io/posts/dotfiles/</link>
+      <pubDate>Sat, 11 Apr 2020 19:12:07 +0100</pubDate>
+      
+      <guid>https://skuzzymiglet.github.io/posts/dotfiles/</guid>
+      <description>My dotfiles are my most active repo on GitHub - unsurprisingly, as I change them at least once a week, and that they&amp;rsquo;ll stick around much longer than the small projects. But they&amp;rsquo;re not very useful to anyone other than me, here&amp;rsquo;s why:
+ My username is hardcoded (mostly fixed) Mountpoint aliases even I don&amp;rsquo;t use Hardcoded network devices Pretty hard to navigate (except, perhaps, for my vimrc) No way to install - ideally I&amp;rsquo;d use LARBS but I need to make a program list  Unsurprisingly, trying to install my dotfiles on friends&amp;rsquo; machines, it was dirty.</description>
+    </item>
+    
+    <item>
       <title>My Setup</title>
       <link>https://skuzzymiglet.github.io/posts/setup/</link>
       <pubDate>Sat, 14 Mar 2020 08:14:27 +0000</pubDate>
@@ -50,7 +60,7 @@ Use it If you make somthing, you should find a use for it yourself.</description
       
       <guid>https://skuzzymiglet.github.io/projects/</guid>
       <description>A list of my todo, in-progress and done projects
-Done  asl - a tool to make timelapses of your screen, replaced asl.sh, a 2-line script, but now I don&amp;rsquo;t use it because it&amp;rsquo;s intrinsically too heavy animator, a command-line animation tool I made in Go. It&amp;rsquo;s kind of stupid, as I knew nothing about animation, so the interface is horrible and the code is functionally flawed  In-progress  point - a simple, fast, tool to create HTML presentation you can open anywhere reviz, a revision app that scans your notes, tests you verbally and shows you your results, all server free.</description>
+Done  asl - a tool to make timelapses of your screen, replaced asl.sh, a 2-line script, but now I don&amp;rsquo;t use it because it&amp;rsquo;s intrinsically too heavy animator, a command-line animation tool I made in Go. It&amp;rsquo;s kind of stupid, as I knew nothing about animation, so the interface is horrible and the code is functionally flawed point - a simple, fast, tool to create HTML presentation you can open anywhere  In-progress Not much i guess 😃</description>
     </item>
     
     <item>
